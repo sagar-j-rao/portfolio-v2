@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.1724a970.chunk.css",
+    "main.js": "/portfolio-v2/static/js/main.6dbbcfa8.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.6dbbcfa8.chunk.js.map",
+    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8030743.js",
+    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8030743.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio-v2/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.01ab70d5.chunk.js": "/portfolio-v2/static/js/2.01ab70d5.chunk.js",
+    "static/js/2.01ab70d5.chunk.js.map": "/portfolio-v2/static/js/2.01ab70d5.chunk.js.map",
+    "index.html": "/portfolio-v2/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio-v2/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1724a970.chunk.css.map": "/portfolio-v2/static/css/main.1724a970.chunk.css.map",
+    "static/js/2.01ab70d5.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.01ab70d5.chunk.js.LICENSE.txt",
+    "static/media/bill-splitter.12e5e917.webp": "/portfolio-v2/static/media/bill-splitter.12e5e917.webp",
+    "static/media/chat-app.ee78df69.webp": "/portfolio-v2/static/media/chat-app.ee78df69.webp",
+    "static/media/game-rent.b0b53711.webp": "/portfolio-v2/static/media/game-rent.b0b53711.webp",
+    "static/media/iot-python.b4bcc805.webp": "/portfolio-v2/static/media/iot-python.b4bcc805.webp",
+    "static/media/profile-pic.14953df5.webp": "/portfolio-v2/static/media/profile-pic.14953df5.webp",
+    "static/media/task-manager.899c5e6d.webp": "/portfolio-v2/static/media/task-manager.899c5e6d.webp",
+    "static/media/timetable.5d0b3d94.webp": "/portfolio-v2/static/media/timetable.5d0b3d94.webp",
+    "static/media/url-customizer.5ef13f0b.webp": "/portfolio-v2/static/media/url-customizer.5ef13f0b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8030743.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.01ab70d5.chunk.js",
+    "static/css/main.1724a970.chunk.css",
+    "static/js/main.6dbbcfa8.chunk.js"
+  ]
+}
